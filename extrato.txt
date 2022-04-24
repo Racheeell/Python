@@ -1,0 +1,5 @@
+Data atual: 2021-11-15
+Nome: rachel
+Saldo atual: 2000.0
+Credito atual: 3000.0
+Credito a Pagar: 0
